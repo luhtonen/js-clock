@@ -1,0 +1,19 @@
+{
+  "name": "js-clock",
+  "version": "0.0.1",
+  "authors": [
+    "Eduard Luhtonen <luhtonen@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "bootstrap": "~3.3.4"
+  }
+}
